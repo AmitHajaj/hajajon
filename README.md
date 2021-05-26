@@ -1,8 +1,8 @@
-### Hi there 👋
+                                                  ### Hi there 👋
 
 I am Amit Hajaj. A software developer. Currently persue a bachelor degree in computer science from Ariel university.
 
-### About me
+                                                  ### About me
 
 -🖥️ Activley searching a student position as a software developer. 
 
@@ -10,7 +10,7 @@ I am Amit Hajaj. A software developer. Currently persue a bachelor degree in com
 
 - ⚡ Fun fact: 💛Maccabi Netanya💛 🏄‍♂️Surf is Life🏄‍♂️
 
-## Skills
+                                                    ## Skills
 - Java
 - C++
 - C
