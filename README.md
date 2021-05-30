@@ -1,6 +1,6 @@
 ###                                                   Hi there 👋
 
-I am Amit Hajaj. A software developer. Currently persue a bachelor degree in computer science from Ariel university.
+I am Amit Hajaj. A software developer. Currently persuing a bachelor degree in computer science from Ariel university.
 
 ###                                                   About me
 
