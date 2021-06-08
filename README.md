@@ -4,7 +4,7 @@ I am Amit Hajaj. A software developer. Currently persuing a bachelor degree in c
 
 ###                                                   About me
 
--🖥️ Activley searching a student position as a software developer. 
+- 🖥️ Activley searching a student position as a software developer. 
 
 - 📫 How to reach me: amithajaj007@gmail.com
 
