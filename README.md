@@ -1,7 +1,7 @@
 ### Hi there 👋, Amit Hajaj
 #### Software developer
-I am Amit Hajaj. A software developer. Currently persuing a bachelor degree in computer science from Ariel university.
-Currently looking for my first software developer position.
+I am Amit Hajaj. A QA engineer at Wix.com. 3rd in computer science from Ariel university.
+
 
 Skills: Java / C / C++ / Python / JavaScript / Node.js / SQL / Git / GitHub / Heroku / Linux.
 
