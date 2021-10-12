@@ -1,12 +1,11 @@
 ### Hi there 👋, Amit Hajaj
-#### Software developer
-I am Amit Hajaj. A QA engineer at Wix.com. 3rd year student in computer science from Ariel university.
+#### QA Automation engineer
+I am Amit Hajaj. A QA Automation engineer at Wix.com. 3rd year student in Computer Science & Mathematics.
 
 
 Skills: Java / C / C++ / Python / JavaScript / Node.js / SQL / Git / GitHub / Heroku / Linux.
 
 - 🌱 I’m currently learning Node.js & JavaScript 
-- 🤔 I’m looking for help with finding my first position. 
 - 💬 Ask me about anything. 
 - 📫 How to reach me: amithajaj007@gmail.com 
 - ⚡ Fun fact:  💛Maccabi Netanya💛 🏄‍♂️Surfing is Living🏄‍♂️ 
